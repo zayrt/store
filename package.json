@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "launchstore": "ts-node store.ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "ts-jest": "^29.1.1"
+  }
+}
